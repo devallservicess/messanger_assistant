@@ -1,0 +1,13 @@
+n8n Workflow Report
+===================
+
+Workflow: n8n Workflow
+Execution ID: 6ewzfhc5b
+Status: success
+Time: Jan 17, 2026, 11:49:38 PM
+
+Workflow executed successfully
+
+
+
+Results:

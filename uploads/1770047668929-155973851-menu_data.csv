@@ -1,0 +1,266 @@
+Category,Subcategory,Item Name,Description,Size/Type,Price
+PIZZA ITALIENNE,,Tomara,Sauce tomate mozzarella oignons thon olive origan,M,13.000
+PIZZA ITALIENNE,,Tomara,Sauce tomate mozzarella oignons thon olive origan,XL,17.000
+PIZZA ITALIENNE,,Tomara,Sauce tomate mozzarella oignons thon olive origan,F,27.000
+PIZZA ITALIENNE,,Escalope,Sauce tomate mozzarella escalope olive origan,M,14.000
+PIZZA ITALIENNE,,Escalope,Sauce tomate mozzarella escalope olive origan,XL,18.500
+PIZZA ITALIENNE,,Escalope,Sauce tomate mozzarella escalope olive origan,F,28.000
+PIZZA ITALIENNE,,4 Viandes,2 Tranches turque 2 escalopes 2 Chawerma 2 Pepperoni,M,16.000
+PIZZA ITALIENNE,,4 Viandes,2 Tranches turque 2 escalopes 2 Chawerma 2 Pepperoni,XL,21.000
+PIZZA ITALIENNE,,4 Viandes,2 Tranches turque 2 escalopes 2 Chawerma 2 Pepperoni,F,30.000
+PIZZA ITALIENNE,,Margherita,Sauce tomate parfumée à l'huile d'olive mozzarella basilic frais tomate cerise et huile d'olive,Standard,15.500
+PIZZA ITALIENNE,,Végétarienne,Sauce tomate parfumée à l'huile d'olive mozzarella basilic frais tomate cerise courgettes oignons champignons poivrons,Standard,16.500
+PIZZA ITALIENNE,,PEPPERONI,Sauce tomate mozzarella pepperoni origan,Standard,17.500
+PIZZA ITALIENNE,,Turque,Sauce tomate parfumée à l'huile d'olive mozzarella basilic frais oignons caramélisées viande hachée et tomate cerise,Standard,20.500
+PIZZA ITALIENNE,,Flamande,Crème mozzarella pistache jambon de dinde ricotta filet de huile d'olive basilic frais,Standard,21.000
+PIZZA ITALIENNE,,Régina,Sauce tomate parfumée à l'huile d'olive mozzarella basilic frais jambon de dinde fumée champignons,Standard,21.500
+PIZZA ITALIENNE,,4 Saisons,Sauce tomate parfumée à l'huile d'olive mozzarella basilic frais jambon de dinde pepperoni thon champignons oignons piment filet de huile d'olive,Standard,22.500
+PIZZA ITALIENNE,,Toscana,Sauce tomate parfumée à l'huile d'olive mozzarella basilic frais viande hachée pepperoni oignons caramélisées piment et tomates cerises,Standard,22.500
+PIZZA ITALIENNE,,5 Fromages,Crème mozzarella gorgonzola camembert à la sortie du four pistache parmesan gruyère et basilic frais,Standard,26.000
+PIZZA ITALIENNE,,Rafaello,Crème mozzarella poulet grillé champignons gruyère basilic frais ricotta tomate cerise épinard,Standard,26.000
+PIZZA ITALIENNE,,Gamberi,Sauce pesto Mozzarella crevettes ail parmesan citron basilic frais,Standard,27.000
+PIZZA ITALIENNE,,Saumon,Crème mozzarella saumon fumé du Norvège basilic frais origan citron noix tomate cerise,Standard,27.000
+PIZZA ITALIENNE,,Burrata,Sauce tomate parfumée à l'huile d'olive jambon de dinde fumé champignon de paris mozzarella basilic frais filet de huile d'olive,Standard,27.000
+PIZZA ITALIENNE,,Pizza hashtag,Double pâte choisissez 4 suppléments au choix servie avec des frites croustillantes,Standard,27.000
+PIZZA ITALIENNE,,Pizza mètre,Préparée avec une sauce tomate maison parfumée à l'huile d'olive mozzarella choisissez 4 suppléments au choix servie avec des frites et une boisson rafraîchissante,Standard,47.000
+SANDWICHES & WRAPS,MAKLOUB,Makloub jambon,,Standard,8.000
+SANDWICHES & WRAPS,MAKLOUB,Makloub escalope,,Standard,9.000
+SANDWICHES & WRAPS,MAKLOUB,Makloub thon,,Standard,9.000
+SANDWICHES & WRAPS,MAKLOUB,Makloub chawerma,,Standard,9.000
+SANDWICHES & WRAPS,MAKLOUB,Makloub escalope panne,,Standard,10.000
+SANDWICHES & WRAPS,MAKLOUB,Makloub cordon bleu,,Standard,10.000
+SANDWICHES & WRAPS,MAKLOUB,Makloub hashtag,,Standard,14.000
+SANDWICHES & WRAPS,CALZONI,Calzoni escalope,,Standard,11.000
+SANDWICHES & WRAPS,CALZONI,Calzoni thon,,Standard,11.000
+SANDWICHES & WRAPS,CALZONI,Calzoni shawerma,,Standard,11.000
+SANDWICHES & WRAPS,CALZONI,Calzoni escalope panne,,Standard,12.000
+SANDWICHES & WRAPS,CALZONI,Calzoni cordon bleu,,Standard,12.000
+SANDWICHES & WRAPS,CALZONI,Calzoni Hashtag,,Standard,15.000
+SANDWICHES & WRAPS,PANOZZO,Panozzo escalope,,Standard,13.000
+SANDWICHES & WRAPS,PANOZZO,Panozzo Chawarma,,Standard,13.000
+SANDWICHES & WRAPS,PANOZZO,Panozzo thon,,Standard,13.000
+SANDWICHES & WRAPS,PANOZZO,Panozzo escalope pannee,,Standard,14.000
+SANDWICHES & WRAPS,PANOZZO,Panozzo cordon bleu,,Standard,14.000
+SANDWICHES & WRAPS,PANOZZO,Panozzo hashtag,,Standard,15.000
+SANDWICHES & WRAPS,BAGUETTE,Baguette jambon,,Standard,10.000
+SANDWICHES & WRAPS,BAGUETTE,Baguette escalope,,Standard,10.000
+SANDWICHES & WRAPS,BAGUETTE,Baguette chawerma,,Standard,10.000
+SANDWICHES & WRAPS,BAGUETTE,Baguette thon,,Standard,10.000
+SANDWICHES & WRAPS,BAGUETTE,Baguette cordon bleu,,Standard,11.000
+SANDWICHES & WRAPS,BAGUETTE,Baguette escalope panne,,Standard,11.000
+SANDWICHES & WRAPS,BAGUETTE,Baguette hashtag,,Standard,14.000
+SANDWICHES & WRAPS,BAGUETTE,Baguette mètre,Choisissez 4 suppléments au choix servie avec des frites et une boisson,Standard,37.000
+SANDWICHES & WRAPS,CORNET,Cornet jambon,,Standard,10.000
+SANDWICHES & WRAPS,CORNET,Cornet escalope,,Standard,10.000
+SANDWICHES & WRAPS,CORNET,Cornet chawerma,,Standard,10.000
+SANDWICHES & WRAPS,CORNET,Cornet thon,,Standard,10.000
+SANDWICHES & WRAPS,CORNET,Cornet escalope panne,,Standard,11.000
+SANDWICHES & WRAPS,CORNET,Cornet cordon bleu,,Standard,11.000
+SANDWICHES & WRAPS,CORNET,Cornet hashtag,,Standard,14.000
+SANDWICHES & WRAPS,TACOS,Tacos thon,,Standard,11.000
+SANDWICHES & WRAPS,TACOS,Tacos escalope,,Standard,11.000
+SANDWICHES & WRAPS,TACOS,Tacos escalope panne,,Standard,12.000
+SANDWICHES & WRAPS,TACOS,Tacos cordon bleu,,Standard,12.000
+DRINKS & SMOOTHIES,CHOCOLAT (CHAUD / FROID),Classique,,Standard,8.000
+DRINKS & SMOOTHIES,CHOCOLAT (CHAUD / FROID),Nutella,,Standard,10.600
+DRINKS & SMOOTHIES,CHOCOLAT (CHAUD / FROID),Pistach,,Standard,10.600
+DRINKS & SMOOTHIES,CHOCOLAT (CHAUD / FROID),Speculoos,,Standard,10.600
+DRINKS & SMOOTHIES,CHOCOLAT (CHAUD / FROID),Noiset,,Standard,10.600
+DRINKS & SMOOTHIES,CHOCOLAT (CHAUD / FROID),Hashtag,Fruits secs + Nutella + Ferrero Rocher + Fruits de saison,Standard,14.600
+DRINKS & SMOOTHIES,MILKSHAKES,Milkshake Chocolat,,Standard,11.000
+DRINKS & SMOOTHIES,MILKSHAKES,Milkshake Milka,,Standard,12.500
+DRINKS & SMOOTHIES,MILKSHAKES,Milkshake Kinder,,Standard,12.500
+DRINKS & SMOOTHIES,MILKSHAKES,Milkshake Nars,,Standard,12.500
+DRINKS & SMOOTHIES,MILKSHAKES,Milkshake Oréo,,Standard,12.500
+DRINKS & SMOOTHIES,MILKSHAKES,Milkshake Pistache,,Standard,12.500
+DRINKS & SMOOTHIES,MILKSHAKES,Milkshake Noisette,,Standard,12.500
+DRINKS & SMOOTHIES,MILKSHAKES,Milkshake Nutella,,Standard,14.800
+DRINKS & SMOOTHIES,MILKSHAKES,Milkshake Ferrero,,Standard,14.800
+DRINKS & SMOOTHIES,MILKSHAKES,Milkshake Caramel,,Standard,14.800
+DRINKS & SMOOTHIES,MILKSHAKES,Milkshake Snickers,,Standard,14.800
+DRINKS & SMOOTHIES,SMOOTHIES,Smoothie Pincolada,,Standard,13.900
+DRINKS & SMOOTHIES,SMOOTHIES,Smoothie Prince,Fruit Rouge,Standard,13.900
+DRINKS & SMOOTHIES,SMOOTHIES,Smoothie Twins,Fruit de passion Kiwi,Standard,14.500
+DRINKS & SMOOTHIES,SMOOTHIES,Smoothie King,Banane Blue Berry Fraise,Standard,15.500
+DRINKS & SMOOTHIES,SMOOTHIES,Smoothie Zumo,Banane Mangue Ananas,Standard,15.500
+DRINKS & SMOOTHIES,SMOOTHIES,Smoothie Queen,Banane Noix de Coco Yaourt Cannelle Beurre de Cacah...,Standard,15.500
+DRINKS & SMOOTHIES,MOJITOS,Mojito Sky,Blue Berry,Standard,12.500
+DRINKS & SMOOTHIES,MOJITOS,Mojito peche,,Standard,12.500
+DRINKS & SMOOTHIES,MOJITOS,Mojito pomme vert,,Standard,12.500
+DRINKS & SMOOTHIES,MOJITOS,Mojito pinacolada,,Standard,12.500
+DRINKS & SMOOTHIES,MOJITOS,Mojito red,,Standard,12.500
+DRINKS & SMOOTHIES,MOJITOS,Mojito Virgin,,Standard,12.500
+DRINKS & SMOOTHIES,MOJITOS,Mojito Mangue,,Standard,12.500
+DRINKS & SMOOTHIES,MOJITOS,Mojito Fruits Rouge,,Standard,12.500
+DRINKS & SMOOTHIES,MOJITOS,Mojito Kiwi,,Standard,12.500
+DRINKS & SMOOTHIES,MOJITOS,Mojito Ananas,,Standard,12.500
+DRINKS & SMOOTHIES,MOJITOS,Mojito Fraise,,Standard,12.500
+DRINKS & SMOOTHIES,MOJITOS,Mojito Mangue Ananas,,Standard,14.500
+DRINKS & SMOOTHIES,MOJITOS,Mojito Energetique,,Standard,15.000
+DRINKS & SMOOTHIES,FRAPPUCCINO,Chocolat,,Standard,12.000
+DRINKS & SMOOTHIES,FRAPPUCCINO,Cookies au chocolat,,Standard,13.500
+DRINKS & SMOOTHIES,FRAPPUCCINO,Noisette/vanille/caramel,,Standard,13.500
+DRINKS & SMOOTHIES,FRAPPUCCINO,Nutella,,Standard,13.500
+DRINKS & SMOOTHIES,FRAPPUCCINO,Spéculoos,,Standard,13.500
+DRINKS & SMOOTHIES,FRAPPUCCINO,Snickers,,Standard,13.500
+CAFE & BOISSONS,CAFÉ,Express,,Standard,3.200
+CAFE & BOISSONS,CAFÉ,Americain,,Standard,3.800
+CAFE & BOISSONS,CAFÉ,Cappuccin,,Standard,3.800
+CAFE & BOISSONS,CAFÉ,Macchiato,,Standard,3.800
+CAFE & BOISSONS,CAFÉ,Chocolat au lait,,Standard,4.000
+CAFE & BOISSONS,CAFÉ,Nescafé au lait,,Standard,4.000
+CAFE & BOISSONS,CAFÉ,Café Crème,,Standard,4.200
+CAFE & BOISSONS,CAFÉ,Café Nestlé,,Standard,4.800
+CAFE & BOISSONS,CAFÉ,Café turc,,Standard,5.000
+CAFE & BOISSONS,CAFÉ,Cappuccino,,Standard,6.500
+CAFE & BOISSONS,CAFÉ,Café aromatisé,caramel noisette vanille,Standard,6.500
+CAFE & BOISSONS,CAFÉ,Café noisette,,Standard,7.000
+CAFE & BOISSONS,CAFÉ,Cappuccino chantillé,,Standard,7.500
+CAFE & BOISSONS,CAFÉ,Ice coffee americano,,Standard,8.000
+CAFE & BOISSONS,CAFÉ,Café pistache,,Standard,8.000
+CAFE & BOISSONS,CAFÉ,Café affogato,,Standard,9.500
+CAFE & BOISSONS,CAFÉ,Iced Coffee Vanille,,Standard,11.800
+CAFE & BOISSONS,CAFÉ,Iced Coffee Hashtag,Nutella ou speculoos,Standard,13.500
+CAFE & BOISSONS,JUS,Citronnade,,Standard,7.000
+CAFE & BOISSONS,JUS,Orange,,Standard,7.000
+CAFE & BOISSONS,JUS,Citronnade à la menthe,,Standard,7.500
+CAFE & BOISSONS,JUS,Fraise,,Standard,9.000
+CAFE & BOISSONS,JUS,Kiwi,,Standard,10.000
+CAFE & BOISSONS,JUS,Jus Banane,,Standard,10.000
+CAFE & BOISSONS,JUS,Citronnade aux amandes,,Standard,10.000
+CAFE & BOISSONS,JUS,Citron + Boule de Glace,,Standard,10.000
+CAFE & BOISSONS,JUS,Detox Carotte Orange,,Standard,10.200
+CAFE & BOISSONS,JUS,Detox Kiwi Concombre,,Standard,10.200
+CAFE & BOISSONS,JUS,Jus de Pomme,,Standard,10.200
+CAFE & BOISSONS,JUS,Jus de fruits,,Standard,11.900
+CAFE & BOISSONS,JUS,Citron Amande + Boule d...,,Standard,14.900
+CAFE & BOISSONS,COCKTAILS,Pomme Citron Menthe,,Standard,11.000
+CAFE & BOISSONS,COCKTAILS,Cocktail Fresh,Banane Fraise,Standard,11.500
+CAFE & BOISSONS,COCKTAILS,Cocktail Caraïbos,Banane Kiwi,Standard,11.500
+CAFE & BOISSONS,COCKTAILS,Cocktail Monster,Fraise Banane Boule de Glace Vanille,Standard,12.500
+CAFE & BOISSONS,COCKTAILS,Banane Pomme Dattes Fruits secs,,Standard,14.000
+CAFE & BOISSONS,COCKTAILS,Cocktail Chups,Datte Banane Fruits secs Miel Epinards,Standard,14.500
+CAFE & BOISSONS,COCKTAILS,Cocktail Adios,Datte Banane Granola Beurre de Cacahuette,Standard,14.500
+CAFE & BOISSONS,COCKTAILS,Cocktail Beuse,Fruit Fruits secs Mousse Vanille Kinder Bueno,Standard,16.500
+CAFE & BOISSONS,BOISSONS,Eau 0.5l,,Standard,1.500
+CAFE & BOISSONS,BOISSONS,Eau 1L,,Standard,2.800
+CAFE & BOISSONS,BOISSONS,Soda au choix,,Standard,3.500
+CAFE & BOISSONS,BOISSONS,Schwepps,,Standard,4.000
+CAFE & BOISSONS,BOISSONS,Orangina,,Standard,4.000
+CAFE & BOISSONS,BOISSONS,Boisson énergétique,,Standard,8.000
+CAFE & BOISSONS,THÉ,Thé Vert,,Standard,3.200
+CAFE & BOISSONS,THÉ,Infusion,,Standard,3.500
+CAFE & BOISSONS,THÉ,Iced tea,Pêche Framboise au citron,Standard,6.300
+CAFE & BOISSONS,THÉ,Thé aux amandes,,Standard,7.000
+CAFE & BOISSONS,THÉ,Thé pistache,,Standard,8.500
+CAFE & BOISSONS,CHICHA,Menthe,,Standard,7.000
+CAFE & BOISSONS,CHICHA,Cheik many,,Standard,7.000
+CAFE & BOISSONS,CHICHA,Pomme,,Standard,7.000
+CAFE & BOISSONS,CHICHA,Love,,Standard,7.000
+CAFE & BOISSONS,CHICHA,Raisins et menthe,,Standard,7.000
+WAFFLES & PANCAKES,GAUFRES SALÉES,Jambon Fromage,,Standard,10.000
+WAFFLES & PANCAKES,GAUFRES SALÉES,Pepperoni Fromage,,Standard,12.000
+WAFFLES & PANCAKES,GAUFRES SALÉES,Overdose,Jambon poulet pepperoni gruyère,Standard,17.000
+WAFFLES & PANCAKES,GAUFRES SUCRÉES,Chocolat,,Standard,9.000
+WAFFLES & PANCAKES,GAUFRES SUCRÉES,Nutella,,Standard,11.000
+WAFFLES & PANCAKES,GAUFRES SUCRÉES,Choco Banane,,Standard,12.000
+WAFFLES & PANCAKES,GAUFRES SUCRÉES,Oréo,,Standard,12.000
+WAFFLES & PANCAKES,GAUFRES SUCRÉES,Spéculoos,,Standard,12.000
+WAFFLES & PANCAKES,GAUFRES SUCRÉES,Noisette,,Standard,12.000
+WAFFLES & PANCAKES,GAUFRES SUCRÉES,Nutella Banane,,Standard,14.000
+WAFFLES & PANCAKES,GAUFRES SUCRÉES,Nutella Fruits secs,,Standard,14.000
+WAFFLES & PANCAKES,GAUFRES SUCRÉES,3 Chocos Fruits secs,,Standard,15.000
+WAFFLES & PANCAKES,GAUFRES SUCRÉES,Hashtag,3 choco's banane fruits secs sauce pistache oréo ou spéculoos,Standard,18.000
+WAFFLES & PANCAKES,BUBBLE WAFFLE,Chocolat,,Standard,10.000
+WAFFLES & PANCAKES,BUBBLE WAFFLE,Nutella,,Standard,11.000
+WAFFLES & PANCAKES,BUBBLE WAFFLE,Miel fruits secs,,Standard,12.000
+WAFFLES & PANCAKES,BUBBLE WAFFLE,Chocolat banane,,Standard,12.500
+WAFFLES & PANCAKES,BUBBLE WAFFLE,Nutella banane,,Standard,13.000
+WAFFLES & PANCAKES,BUBBLE WAFFLE,Nutella fruits secs,,Standard,13.000
+WAFFLES & PANCAKES,BUBBLE WAFFLE,Hashtag,3 chocolats fruits sec fruits de saison,Standard,15.000
+WAFFLES & PANCAKES,PANCAKE,Chocolat,,Standard,9.000
+WAFFLES & PANCAKES,PANCAKE,Chocolat banane,,Standard,11.000
+WAFFLES & PANCAKES,PANCAKE,Nutella,,Standard,11.000
+WAFFLES & PANCAKES,PANCAKE,Miel fruits secs,,Standard,12.000
+WAFFLES & PANCAKES,PANCAKE,Nutella banane,,Standard,13.000
+WAFFLES & PANCAKES,PANCAKE,Nutella fruits secs,,Standard,13.000
+WAFFLES & PANCAKES,PANCAKE,Hashtag,,Standard,15.000
+WAFFLES & PANCAKES,BOULE WAFFLE,Nutella,,14 boules,12.000
+WAFFLES & PANCAKES,BOULE WAFFLE,Nutella,,21 boules,17.000
+WAFFLES & PANCAKES,BOULE WAFFLE,Speculoos,pâte + biscuit + caramel,14 boules,13.000
+WAFFLES & PANCAKES,BOULE WAFFLE,Speculoos,pâte + biscuit + caramel,21 boules,18.500
+WAFFLES & PANCAKES,BOULE WAFFLE,Kinder Maxi,chocolat + fruit sec,14 boules,13.500
+WAFFLES & PANCAKES,BOULE WAFFLE,Kinder Maxi,chocolat + fruit sec,21 boules,19.000
+WAFFLES & PANCAKES,BOULE WAFFLE,Kinder Bueno,nutella + noisette + kinder,14 boules,13.500
+WAFFLES & PANCAKES,BOULE WAFFLE,Kinder Bueno,nutella + noisette + kinder,21 boules,18.500
+WAFFLES & PANCAKES,BOULE WAFFLE,Oreo,nutella + oreo,14 boules,13.500
+WAFFLES & PANCAKES,BOULE WAFFLE,Oreo,nutella + oreo,21 boules,17.500
+WAFFLES & PANCAKES,BOULE WAFFLE,Specula,nutella + speculoos,14 boules,13.500
+WAFFLES & PANCAKES,BOULE WAFFLE,Specula,nutella + speculoos,21 boules,19.000
+WAFFLES & PANCAKES,BOULE WAFFLE,Milka,nutella + chocolat blanc + milka,14 boules,14.000
+WAFFLES & PANCAKES,BOULE WAFFLE,Milka,nutella + chocolat blanc + milka,21 boules,19.000
+WAFFLES & PANCAKES,BOULE WAFFLE,Banane,nutella + banane + noisette,14 boules,14.500
+WAFFLES & PANCAKES,BOULE WAFFLE,Banane,nutella + banane + noisette,21 boules,19.000
+WAFFLES & PANCAKES,BOULE WAFFLE,Rafaello,chocolat blanc + rafaello + amande,14 boules,14.500
+WAFFLES & PANCAKES,BOULE WAFFLE,Rafaello,chocolat blanc + rafaello + amande,21 boules,19.500
+WAFFLES & PANCAKES,BOULE WAFFLE,Ferrero Rocher,nutella + noisette + ferrero rocher,14 boules,14.500
+WAFFLES & PANCAKES,BOULE WAFFLE,Ferrero Rocher,nutella + noisette + ferrero rocher,21 boules,19.500
+WAFFLES & PANCAKES,BOULE WAFFLE,Snickers,nutella + caramel + noisette + snickers,14 boules,15.000
+WAFFLES & PANCAKES,BOULE WAFFLE,Snickers,nutella + caramel + noisette + snickers,21 boules,19.000
+WAFFLES & PANCAKES,BOULE WAFFLE,Blacky,nutella + banane + fruit sec,14 boules,15.000
+WAFFLES & PANCAKES,BOULE WAFFLE,Blacky,nutella + banane + fruit sec,21 boules,19.500
+WAFFLES & PANCAKES,BOULE WAFFLE,Fruitella,nutella + 3 fruits de saison,14 boules,15.000
+WAFFLES & PANCAKES,BOULE WAFFLE,Fruitella,nutella + 3 fruits de saison,21 boules,20.000
+WAFFLES & PANCAKES,BOULE WAFFLE,Pistachio,chocolat blanc + pistache pâte + pistache,14 boules,18.000
+WAFFLES & PANCAKES,BOULE WAFFLE,Pistachio,chocolat blanc + pistache pâte + pistache,21 boules,24.500
+CRÊPES & GALETTES,CRÊPES SALÉES,Crêpe pepperoni,Pepperoni mozza sauce marinara basilic sec,Standard,13.000
+CRÊPES & GALETTES,CRÊPES SALÉES,Crêpe pizza,Thon mozza sauce marinara olives persil,Standard,13.000
+CRÊPES & GALETTES,CRÊPES SALÉES,Crêpe Sicile,Jambon de bœuf fumé mozza sauce pesto légumes,Standard,14.000
+CRÊPES & GALETTES,CRÊPES SALÉES,Crêpe Bombay,Poulet curry mozza champignon grillé légumes,Standard,14.000
+CRÊPES & GALETTES,CRÊPES SALÉES,Crêpe Sicile + gruyère,,Standard,15.500
+CRÊPES & GALETTES,CRÊPES SALÉES,Crêpe Bombay + gruyère,,Standard,16.000
+CRÊPES & GALETTES,CRÊPES SALÉES,Crêpe cheesy,Mozza gruyère raclette fromage blanc,Standard,16.500
+CRÊPES & GALETTES,CRÊPES SALÉES,Crêpe texas + gruyère,Viande hachée gruyère légumes grillés,Standard,16.500
+CRÊPES & GALETTES,CRÊPES SUCRÉES,Crêpe Chocolat,,Standard,10.000
+CRÊPES & GALETTES,CRÊPES SUCRÉES,Crêpe blacky simple,Choco noir pépite de chocolat belge 72,Standard,10.000
+CRÊPES & GALETTES,CRÊPES SUCRÉES,Crêpe nutella simple,Nutella,Standard,11.000
+CRÊPES & GALETTES,CRÊPES SUCRÉES,Crêpe blacky,Choco noir noisettes pépite de chocolat belge 72,Standard,12.000
+CRÊPES & GALETTES,CRÊPES SUCRÉES,Crêpe Chocolat Fruit sec,,Standard,12.500
+CRÊPES & GALETTES,CRÊPES SUCRÉES,Crêpe spécula,Nutella spéculoos caramel beurre salé,Standard,13.000
+CRÊPES & GALETTES,CRÊPES SUCRÉES,Crêpe Milka Oreo,,Standard,14.000
+CRÊPES & GALETTES,CRÊPES SUCRÉES,Crêpe Rafaello,,Standard,14.000
+CRÊPES & GALETTES,CRÊPES SUCRÉES,Crêpe Snickers,,Standard,14.000
+CRÊPES & GALETTES,CRÊPES SUCRÉES,Crêpe Nutella Banane,,Standard,14.000
+CRÊPES & GALETTES,CRÊPES SUCRÉES,Crêpe Ferrero,,Standard,15.000
+CRÊPES & GALETTES,CRÊPES SUCRÉES,Crêpe kinder,Nutella chocolat blanc kinder,Standard,15.500
+CRÊPES & GALETTES,CRÊPES SUCRÉES,Crêpe nutella suprême,Nutella noisettes ferrero rocher beurre de noisette,Standard,16.000
+CRÊPES & GALETTES,CRÊPES SUCRÉES,Crêpe cheesecake,Nutella mascarpone préparation cheesecake,Standard,16.000
+CRÊPES & GALETTES,CRÊPES SUCRÉES,Crêpe milka & noisettes,Tablette milka noisettes nutella beurre de noisette,Standard,17.500
+CRÊPES & GALETTES,CRÊPES SUCRÉES,Crêpe pistashio,Nutella beurre de pistache pistache concassé,Standard,18.000
+CRÊPES & GALETTES,CRÊPES SUCRÉES,Crêpe Hashtag,,Standard,19.000
+DESSERTS,PÂTISSERIES,Cheesecake Pistach,,Standard,13.500
+DESSERTS,PÂTISSERIES,Cheesecake white,Choco blanc caramel beurre salé amandes,Standard,13.500
+DESSERTS,PÂTISSERIES,Cheesecake blacky,Choco noir pépites de chocolat belge 72,Standard,13.500
+DESSERTS,PÂTISSERIES,Cheesecake spécula,Nutella spéculoos caramel beurre salé,Standard,13.500
+DESSERTS,PÂTISSERIES,Cheesecake Sebastien,,Standard,14.500
+DESSERTS,GLACES,Boules glace au choix,,Standard,3.000
+DESSERTS,GLACES,Yaourt glacée,noisette pistache nutella spéculoos,Standard,5.000
+DESSERTS,GLACES,Glaces Spong Bob,2 Boules au choix,Standard,5.500
+DESSERTS,GLACES,Glace Colonel,3 Boules (Citron Sirop Menthe),Standard,11.500
+DESSERTS,GLACES,Banana Split,Vanille Fraise Chocolat Oreo Fruits secs Fruits,Standard,12.500
+DESSERTS,GLACES,Glace Hashtag,Vanille Fraise Pistache Chocolat Fruits de saison,Standard,19.500
+DESSERTS,AUTRES DESSERTS,Jwajem,,Standard,12.500
+DESSERTS,AUTRES DESSERTS,Assiette fruits,,Standard,15.000
+DESSERTS,AUTRES DESSERTS,Assiette fruits secs,,Standard,15.000
+DESSERTS,AUTRES DESSERTS,Jwajem hashtag,,Standard,17.000
+LES PACKS,,Pack sucrées,,Standard,12.500
+LES PACKS,,Pack salées,,Standard,15.000
+OMELETTES,,Omelette Mistral,Mozzarella mayonnaise sauce tomate jambon olive vert,Standard,10.000
+OMELETTES,,Omelette Pepperoni,Mozzarella mayonnaise sauce piquante pepperoni olive vert,Standard,10.500
+OMELETTES,,Omelette Neptune,Mozzarella mayonnaise harissa thon olive vert,Standard,11.000
+OMELETTES,,Omelette Chicken,Mozzarella mayonnaise sauce piquante cordon bleu olive vert,Standard,13.000
+PETIT DÉJEUNER,NOS PETIT DÉJEUNERS,Bambino,Chocolat au lait céréales mini crêpe surprise jus,Standard,12.300
+PETIT DÉJEUNER,NOS PETIT DÉJEUNERS,Fast,Café au choix jus viennoiserie beurre confiture mini omelette eau 0.5l,Standard,12.500
+PETIT DÉJEUNER,NOS PETIT DÉJEUNERS,Sweet morning,Café au choix viennoiserie box crêpes et fruits mini omelette charcuterie yaourt beurre confiture miel chocolat,Standard,23.000
+PETIT DÉJEUNER,NOS PETIT DÉJEUNERS,Pause VIP,Café au choix viennoiserie cheese cake crêpe sucrée pain cake omelette charcuterie et fromage harissa huile d'olive ricotta beurre confiture chocolat à tartiner,Standard,34.800
+PETIT DÉJEUNER,NOS PETIT DÉJEUNERS,Brunch (pour 2),2 cafés 2 jus 2 viennoiseries assiette charcuterie crème chocolat spéculoos cheesecake pancake omelette nuggets cordon bleu boulette de fromage escalope saucisse yaourt miel confiture beurre harissa huile d'olive,Standard,48.900
